@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "dpcomic";
+    src: url('./dpcomic.ttf');
+   
+  }
+  *{
+    color:#008cffff;
+  }
+html {
+    display: flex;
+    justify-content: left;
+    background-color: #1a0522ff;
+
+    font-family: "dpcomic";
+    font-size: x-large;
+}
